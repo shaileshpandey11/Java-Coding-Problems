@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /** Created by Shailesh on 12/26/2016. */
-public class reverseSentence {
+public class ReverseSentence {
 
   public static void main(String args[]) {
     String input = "My name is Shailesh Pandey";
